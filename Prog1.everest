@@ -1,0 +1,11 @@
+VARS 
+int a,b;
+atribuicao
+a=3;
+INICIO
+ENQUANTO(a>b * 3)
+{ 
+IMPRIME a;
+}
+FIM
+

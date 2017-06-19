@@ -1,0 +1,13 @@
+VARS 
+int a,b,c;
+atribuicao
+a=3,b=0,c=2;
+INICIO
+SE(a>b * 3)
+{IMPRIME a;}
+OU(a<b * 3)
+{IMPRIME b;}
+SENAO
+{IMPRIME c;}
+FIM
+
